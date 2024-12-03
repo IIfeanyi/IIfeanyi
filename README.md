@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Profile!
+# Hi 👋 I'm Ifeanyi
 
 I'm a **Smart Contract Engineer** and **Chatbot Developer** . My work bridges blockchain technology and conversational AI to create innovative applications for modern challenges.
 
@@ -44,7 +44,6 @@ An enterprise chatbot designed to improve customer engagement and streamline sup
 ---
 
 ## 🤝 Let's Connect
--     [Twiter](https://your-portfolio-link.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ifeanyi-igboanugo-922719214/)
 - 📧 [Email Me](igboanugoifeanyi.c@gmail.com)
 
