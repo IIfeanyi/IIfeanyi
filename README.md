@@ -50,7 +50,7 @@ An enterprise chatbot designed to improve customer engagement and streamline sup
 ---
 
 ![Footer Banner](https://via.placeholder.com/1200x100.png?text=Thanks+for+visiting!)
-## Hi there 👋
+
 
 <!--
 **IIfeanyi/iifeanyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
